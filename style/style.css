@@ -1,0 +1,80 @@
+body {
+	background-color: rgb(79, 171, 211);
+	font-family: Arial, sans-serif;
+	color: rgb(119, 119, 119);
+
+}
+
+.container {
+	width: 370px;
+	height: auto;
+	padding: 10px;
+	margin: 50px;
+}
+
+form {
+	background-color: white;
+	border: 8px solid rgb(80, 163, 198);
+	border-radius: 5px;
+}
+
+.head {
+	border-bottom: 1px solid lightgrey;
+	margin-bottom: 20px;
+	padding: 10px;
+	font-weight: bold;
+	text-align: center;
+	color: rgb(100, 100, 100);
+}
+
+#login, #pass {
+	display: block;
+	width: 280px;
+	height: 15px;
+	border: 1px solid lightgrey;
+	margin: 5px auto;
+	margin-top: 27px;
+	padding: 10px;
+	font-size: 13px;
+}
+
+.foot {
+	width: 310px;
+	margin: 10px auto;
+	padding: 20px;
+}
+
+.left: {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.check-text {
+	font-size: 13px;
+}
+
+.btn {
+	padding: 7px 18px;
+	margin-top: -5px;
+	border: 2px solid lightgrey;
+	border-radius: 30px;
+	background-color: rgb(223, 236, 242);
+	font-weight: bold;
+	color: rgb(100, 100, 100);
+}
+
+.forgot {
+	margin: 20px auto;
+	text-align: center;
+	font: bold 12px Arial, sans-serif;
+	color: white;
+}
+
+.forgot a {
+	text-decoration: none;
+	color: lightgrey;
+}
+
